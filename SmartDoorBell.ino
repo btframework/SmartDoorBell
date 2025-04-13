@@ -1,7 +1,7 @@
 // ESP32C3FN4 SuperMini Board
 // ===============================================================
 // Arduino IDE settings:
-//   - Board: ESP32C3 Dev BModule
+//   - Board: ESP32C3 Dev Module
 //   - ESP CDC On Boot: Enabled
 //   - CPU Frequency: 80MHz (WiFi)
 //   - Core Debug Level: None
