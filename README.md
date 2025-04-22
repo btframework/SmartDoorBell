@@ -1,7 +1,7 @@
 # Smart Doorbell
  ESP32C3 smart doorbell for Apple Home Kit
 
- This repository contains firmware for the HomeKit device described in this video: https://youtu.be/UexestUQARw
+ This repository contains firmware for the HomeKit device described in [this video](https://youtu.be/UexestUQARw).
  
  **Required Hardware**
  - 433Mhz doorbell
